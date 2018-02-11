@@ -364,9 +364,11 @@
     border-right-style: solid !important;
 }
 
+/*
 [class~=guilds-wrapper] [class~=guilds] [class~=guild] {
     margin-left: .5pc;
 }
+*/
 
 [class~=guilds-wrapper] [class~=guilds] [class~=guild] {
     margin-top: 6pt;
@@ -413,10 +415,12 @@
     background-color: #25ace8;
 }
 
+/*
 [class~=guilds-wrapper] [class~=guilds] [class~=guild]:first-child,
 [class~=guilds-wrapper] [class~=guilds] [class~=friends-online] {
     margin-left: auto;
 }
+*/
 
 .private-channels .channel.selected a {
     background-color: rgba(0, 0, 0, .2);
@@ -640,6 +644,10 @@
     border-color: transparent;
 }
 
+[class~=chat] [class~=new-messages-bar] {
+    background-color: rgba(67, 181, 129, .9);
+}
+
 .wrapper-2ldvyE {
     display: inline-block;
     font-size: 12px;
@@ -685,9 +693,11 @@
     border-bottom-color: rgb(0, 0, 0) !important;
 }
 
+/*
 .guilds-wrapper {
     width: 140px;
 }
+*/
 
 .theme-dark .inner-3if5cm {
     background-color: rgba(0, 0, 0, 0.4);
@@ -701,10 +711,12 @@
     margin-left: -5pc;
 }
 
+/*
 [class~=region-select-modal] [class~=region-select-modal-option],
 [class~=guilds-wrapper] [class~=guilds] [class~=guild]:first-of-type {
     border-left-style: solid;
 }
+*/
 
 [class~=guilds-wrapper] [class~=guilds] [class~=guild]:first-of-type {
     border-left-width: 3.75pt;
@@ -869,9 +881,11 @@
     border-left-style: dashed !important;
 }
 
+/*
 [class~=guilds-wrapper] [class~=scroller-wrap] {
     width: 125pt;
 }
+*/
 
 [class~=search-results-wrap] [class~=channel-separator]:before {
     border-left-style: none;
@@ -2306,7 +2320,6 @@
 #user-profile-modal [class~=guilds] [class~=guild]:hover {
     background: rgba(255, 255, 255, .2) !important;
 }
-
 
 [class~=react-datepicker] [class~=react-datepicker__month] [class~=react-datepicker__week]>[class~=react-datepicker__day]:last-of-type {
     border-right-color: rgba(255, 255, 255, .15) !important;
@@ -7252,6 +7265,19 @@ textarea {
     background: rgba(0, 0, 0, .5) !important;
 }
 
+.guilds-wrapper .guilds .friends-online {
+    font-size: 10px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: hsla(0,0%,100%,.3);
+    margin: null;
+    word-wrap: normal;
+    white-space: nowrap;
+    width: 50px;
+    line-height: 130%;
+    text-align: center;
+}
+
 .headerNormal-1cioxU {
     background: rgba(0, 0, 0, .9) !important;
     background-size: 270px 213px;
@@ -7293,7 +7319,7 @@ textarea {
 }
 
 .theme-dark .private-channel-call {
-    background-color: rgba(0, 0, 0, 0.9);
+    background-color: rgba(0, 0, 0, 0.9) !important;
 }
 
 .ui-video {
@@ -7407,7 +7433,6 @@ textarea {
 .theme-dark .layer-kosS71, .theme-dark .layers-20RVFW {
     background: rgba(0, 0, 0, 0);
 }
-
 
 .headerSpotify-1fSJPO {
     background: #000000;
