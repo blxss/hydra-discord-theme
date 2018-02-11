@@ -12,7 +12,7 @@
 }
 
 [class~=create-guild-container] [class~=action][class~=create]:hover [class~=btn-primary] {
-    background-color: #1d6586 !important;
+    background-color: #3B4489 !important;
 }
 
 .create-guild-container .form-actions .btn-default {
@@ -147,7 +147,7 @@
 }
 
 [class~=guilds-wrapper] [class~=guilds] [class~=guild] [class~=guild-inner]:hover {
-    background: #1d6586 !important;
+    background: #3B4489 !important;
 }
 
 [class~=scroller-wrap] [class~=scroller]::-webkit-scrollbar-thumb {
@@ -364,11 +364,9 @@
     border-right-style: solid !important;
 }
 
-/*
 [class~=guilds-wrapper] [class~=guilds] [class~=guild] {
     margin-left: .5pc;
 }
-*/
 
 [class~=guilds-wrapper] [class~=guilds] [class~=guild] {
     margin-top: 6pt;
@@ -415,12 +413,10 @@
     background-color: #25ace8;
 }
 
-/*
 [class~=guilds-wrapper] [class~=guilds] [class~=guild]:first-child,
 [class~=guilds-wrapper] [class~=guilds] [class~=friends-online] {
     margin-left: auto;
 }
-*/
 
 .private-channels .channel.selected a {
     background-color: rgba(0, 0, 0, .2);
@@ -644,10 +640,6 @@
     border-color: transparent;
 }
 
-[class~=chat] [class~=new-messages-bar] {
-    background-color: rgba(67, 181, 129, .9);
-}
-
 .wrapper-2ldvyE {
     display: inline-block;
     font-size: 12px;
@@ -693,11 +685,9 @@
     border-bottom-color: rgb(0, 0, 0) !important;
 }
 
-/*
 .guilds-wrapper {
     width: 140px;
 }
-*/
 
 .theme-dark .inner-3if5cm {
     background-color: rgba(0, 0, 0, 0.4);
@@ -711,12 +701,10 @@
     margin-left: -5pc;
 }
 
-/*
 [class~=region-select-modal] [class~=region-select-modal-option],
 [class~=guilds-wrapper] [class~=guilds] [class~=guild]:first-of-type {
     border-left-style: solid;
 }
-*/
 
 [class~=guilds-wrapper] [class~=guilds] [class~=guild]:first-of-type {
     border-left-width: 3.75pt;
@@ -753,7 +741,7 @@
 
 [class~=guild-channels] [class~=channel-text]:hover a,
 [class~=guild-channels] [class~=channel-text][class~=selected] a {
-    color: #43b581;
+    color: #3B4489;
 }
 
 [class~=guilds-wrapper] [class~=guilds] [class~=guild]:first-of-type,
@@ -881,11 +869,9 @@
     border-left-style: dashed !important;
 }
 
-/*
 [class~=guilds-wrapper] [class~=scroller-wrap] {
     width: 125pt;
 }
-*/
 
 [class~=search-results-wrap] [class~=channel-separator]:before {
     border-left-style: none;
@@ -1102,7 +1088,7 @@
 
 [class~=guild-channels] [class~=channel]:not([class~=selected]):before,
 [class~=guild-channels] [class~=channel][class~=selected]:hover:before {
-    border-left-color: #43b581 !important;
+    border-left-color: #3B4489 !important;
 }
 
 [class~=guild-channels] header h2 {
@@ -1240,7 +1226,7 @@
 
 .private-channels .channel.selected:hover:before,
 .guild-channels .channel.selected:before {
-    border-left-color: #43b581 !important;
+    border-left-color: #3B4489 !important;
 }
 
 .channel-textarea-autocomplete-inner header {
@@ -2245,7 +2231,7 @@
 }
 
 [class~=private-channels] [class~=search-result]:hover:before {
-    border-left-color: #43b581 !important;
+    border-left-color: #3B4489 !important;
 }
 
 [class~=message-group] [class~=comment] {
@@ -2320,6 +2306,7 @@
 #user-profile-modal [class~=guilds] [class~=guild]:hover {
     background: rgba(255, 255, 255, .2) !important;
 }
+
 
 [class~=react-datepicker] [class~=react-datepicker__month] [class~=react-datepicker__week]>[class~=react-datepicker__day]:last-of-type {
     border-right-color: rgba(255, 255, 255, .15) !important;
@@ -3943,11 +3930,11 @@
 }
 
 #permissions [class~=permissions-helpdesk]:hover {
-    color: #1d6586;
+    color: #3B4489;
 }
 
 [class~=channel-members] [class~=invite-btn] {
-    background: #1d6586;
+    background: #3B4489;
 }
 
 [class~=channel-members] [class~=invite-btn]:hover {
@@ -4200,7 +4187,7 @@
 }
 
 #user-profile-modal [class~=btn]:hover {
-    background: #1d6586;
+    background: #3B4489;
 }
 
 .messages .markup .highlight:hover {
@@ -4485,7 +4472,7 @@
 }
 
 .private-channels .channel:hover:not(.selected) .icon-friends {
-    background-color: #1d6586 !important;
+    background-color: #3B4489 !important;
 }
 
 #bda-qem {
@@ -4609,7 +4596,7 @@
 }
 
 .avatar-uploader a:hover {
-    color: #1d6586;
+    color: #3B4489;
 }
 
 [class~=form] [class~=control-group] input[type=email],
@@ -4668,7 +4655,7 @@
 }
 
 [class~=radio]:hover span:after {
-    background: #1d6586;
+    background: #3B4489;
 }
 
 [class~=form] [class~=Select-control],
@@ -5387,7 +5374,7 @@
 }
 
 [class~=btn-help]:hover {
-    background: #1d6586;
+    background: #3B4489;
 }
 
 #user-profile-modal [class~=tab-bar-container] {
@@ -6264,7 +6251,7 @@
 }
 
 [class~=popout-menu] [class~=popout-menu-item]:hover {
-    background-color: #1d6586 !important;
+    background-color: #3B4489 !important;
 }
 
 [class~=guild-settings-modal-members] {
@@ -6478,7 +6465,7 @@
 }
 
 [class~=user-settings-modal] [class~=voice-settings] [class~=reset-voice-settings]:hover {
-    color: #1d6586;
+    color: #3B4489;
 }
 
 [class~=user-settings-modal-games] [class~=games-table] [class~=games-row] [class~=item-game] [class~=game-name],
@@ -6992,7 +6979,7 @@
 }
 
 [class~=guild-settings-modal-members] [class~=guild-settings-modal-members-footer] a:hover {
-    color: #1d6586;
+    color: #3B4489;
 }
 
 [class~=emoji-picker] {
@@ -7209,7 +7196,7 @@
 }
 
 #settings-roles [class~=roles] li:hover:before {
-    background: #1d6586;
+    background: #3B4489;
 }
 
 #bda-qem-twitch-container [class~=scroller]::-webkit-scrollbar-track {
@@ -7265,19 +7252,6 @@ textarea {
     background: rgba(0, 0, 0, .5) !important;
 }
 
-.guilds-wrapper .guilds .friends-online {
-    font-size: 10px;
-    text-transform: uppercase;
-    font-weight: 500;
-    color: hsla(0,0%,100%,.3);
-    margin: null;
-    word-wrap: normal;
-    white-space: nowrap;
-    width: 50px;
-    line-height: 130%;
-    text-align: center;
-}
-
 .headerNormal-1cioxU {
     background: rgba(0, 0, 0, .9) !important;
     background-size: 270px 213px;
@@ -7319,7 +7293,7 @@ textarea {
 }
 
 .theme-dark .private-channel-call {
-    background-color: rgba(0, 0, 0, 0.9) !important;
+    background-color: rgba(0, 0, 0, 0.9);
 }
 
 .ui-video {
@@ -7433,6 +7407,7 @@ textarea {
 .theme-dark .layer-kosS71, .theme-dark .layers-20RVFW {
     background: rgba(0, 0, 0, 0);
 }
+
 
 .headerSpotify-1fSJPO {
     background: #000000;
