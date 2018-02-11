@@ -648,14 +648,14 @@
     font-family: SourceCodePro, Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
     padding: 0 4px;
     border-radius: 2px;
-    color: #43b581;
+    color: #3b4489;
     background-color: rgba(0, 0, 0, 0);
 }
 
 .theme-dark .friends-table .messages .message-group-blocked .message-group-blocked-btn,
 .theme-dark .messages-wrapper .messages .message-group-blocked .message-group-blocked-btn {
     background: rgba(0, 0, 0, 0.5);
-    color: #f04747;
+    color: #3b4489;
 }
 
 .theme-dark .friends-table .messages .message-group-blocked,
@@ -1383,7 +1383,7 @@
 }
 
 [class~=header-toolbar] button[class~=popout-open] {
-    background: #43b581;
+    background: #3b4489;
 }
 
 [class~=contentHoveredText-2HYGIY] {
@@ -1597,7 +1597,7 @@
 }
 
 [class~=private-channels] [class~=channel]:not([class~=selected]):before {
-    border-left-color: #43b581 !important;
+    border-left-color: #3b4489 !important;
 }
 
 .search-popout .date-picker .date-picker-hint .hint-value {
@@ -1843,7 +1843,7 @@
 }
 
 [class~=private-channels] [class~=channel][class~=selected]:before {
-    border-left-color: #43b581 !important;
+    border-left-color: #3b4489 !important;
 }
 
 [class~=private-channels] [class~=channel][class~=selected]:before,
@@ -1971,7 +1971,7 @@
 }
 
 [class~=private-channels] [class~=search-result][class~=selected]:before {
-    border-left-color: #43b581 !important;
+    border-left-color: #3b4489 !important;
 }
 
 .chat .has-more button {
@@ -3338,7 +3338,7 @@
 
 [class~=search-answer],
 [class~=search-filter] {
-    background-color: #43b581 !important;
+    background-color: #3b4489 !important;
 }
 
 [class~=mentioned] [class~=message-text]:after {
@@ -3683,7 +3683,7 @@
 
 [class~=add-friend-popout] [class~=btn],
 #friends [class~=btn] {
-    background-color: #43b581 !important;
+    background-color: #3b4489 !important;
 }
 
 [class~=private-channels] [class~=status] {
@@ -4212,7 +4212,7 @@
 }
 
 .private-channels .channel.selected .icon-friends {
-    background-color: #43b581 !important;
+    background-color: #3b4489 !important;
 }
 
 .private-channels .channel.btn-friends .badge {
@@ -7260,7 +7260,7 @@ textarea {
 .body-3rkFrF {
     background-color: rgba(0,0,0,0.9);
     padding: 20px;
-    border-bottom: 1px solid #43b581;
+    border-bottom: 1px solid #3b4489;
 }
 
 .footer-2J5zqP {
