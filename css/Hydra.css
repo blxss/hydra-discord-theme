@@ -1,6 +1,6 @@
 //META{"name":"Hydra","description":"A nice theme for Hydra users.","author":"bliss","version":"1.25 beta"}*//{}
 
-[class~=divider-red] span,
+[class~=divider-blue] span,
 [class~=guild-header] header,
 #rtc-connection,
 #voice-connection {
@@ -24,7 +24,7 @@
 }
 
 [class~=create-guild-container] h5 {
-    color: #25ace8;
+    color: #3B4489;
 }
 
 [class~=scroller-wrap] [class~=scroller]::-webkit-scrollbar-thumb {
@@ -110,7 +110,7 @@
 }
 
 .create-guild-container .action.create .action-header {
-    color: #25ace8;
+    color: #3B4489;
 }
 
 [class~=help-container],
@@ -231,7 +231,7 @@
 }
 
 .create-guild-container .action.create .btn-primary {
-    background-color: #25ace8 !important;
+    background-color: #3B4489 !important;
 }
 
 #rtc-connection {
@@ -291,11 +291,11 @@
 
 [class~=create-guild-container] [class~=create-guild] [class~=guild-form] [class~=region-select]:hover [class~=region-select-inner],
 .region-select-modal .region-select-modal-option:hover {
-    border-left-color: #25ace8;
+    border-left-color: #3B4489;
 }
 
 .region-select-modal .region-select-modal-option:hover {
-    border-bottom-color: #25ace8;
+    border-bottom-color: #3B4489;
 }
 
 [class~=scroller-wrap] [class~=scroller]::-webkit-scrollbar-track-piece {
@@ -327,7 +327,7 @@
 }
 
 .region-select-modal .region-select-modal-option:hover {
-    border-right-color: #25ace8;
+    border-right-color: #3B4489;
 }
 
 [class~=guilds-wrapper] [class~=guilds] [class~=guild][class~=selected]:before {
@@ -351,7 +351,7 @@
 }
 
 .region-select-modal .region-select-modal-option:hover {
-    border-top-color: #25ace8;
+    border-top-color: #3B4489;
 }
 
 [class~=guilds-wrapper] [class~=guilds] [class~=guild]:first-child,
@@ -410,7 +410,7 @@
 }
 
 [class~=create-guild-container] [class~=create-guild] [class~=guild-form] [class~=region-select]:hover button {
-    background-color: #25ace8;
+    background-color: #3B4489;
 }
 
 [class~=guilds-wrapper] [class~=guilds] [class~=guild]:first-child,
@@ -471,7 +471,7 @@
 
 [class~=form] header,
 [class~=region-select-modal] [class~=region-select-modal-header] {
-    color: #25ace8;
+    color: #3B4489;
 }
 
 #voice-connection .btn {
@@ -524,11 +524,11 @@
 }
 
 [class~=avatar-uploader] [class~=avatar-uploader-inner] {
-    background-color: #25ace8;
+    background-color: #3B4489;
 }
 
 .checkbox .checkbox-inner input[type=checkbox]:checked+span {
-    border-left-color: #25ace8;
+    border-left-color: #3B4489;
 }
 
 [class~=search-results-wrap] [class~=channel-separator]:before {
@@ -798,7 +798,7 @@
 .checkbox .checkbox-inner input[type=checkbox]:checked+span,
 [class~=create-guild-container] [class~=create-guild] [class~=guild-form] [class~=region-select]:hover [class~=region-select-inner],
 [class~=create-guild-container] [class~=create-guild] [class~=guild-form] [class~=region-select]:hover button {
-    border-bottom-color: #25ace8;
+    border-bottom-color: #3B4489;
 }
 
 [class~=guilds-wrapper] [class~=guilds] [class~=guild]:first-of-type {
@@ -834,7 +834,7 @@
 }
 
 [class~=create-guild-container] [class~=create-guild] [class~=guild-form] [class~=region-select]:hover [class~=region-select-inner] {
-    border-right-color: #25ace8;
+    border-right-color: #3B4489;
 }
 
 [class~=guilds-wrapper] [class~=guilds] [class~=guild]:first-of-type {
@@ -850,7 +850,7 @@
 }
 
 [class~=create-guild-container] [class~=create-guild] [class~=guild-form] [class~=region-select]:hover [class~=region-select-inner] {
-    border-top-color: #25ace8;
+    border-top-color: #3B4489;
 }
 
 [class~=guilds-wrapper] [class~=guilds] [class~=guild]:first-of-type {
@@ -935,7 +935,7 @@
 }
 
 [class~=create-guild-container] [class~=create-guild] [class~=guild-form] [class~=region-select]:hover button {
-    border-left-color: #25ace8;
+    border-left-color: #3B4489;
 }
 
 [class~=guild-channels] [class~=channel]:not([class~=selected]):before {
@@ -976,7 +976,7 @@
 }
 
 [class~=messages] a {
-    color: #25ace8 !important;
+    color: #3B4489 !important;
 }
 
 [class~=guilds-add] {
@@ -1273,7 +1273,7 @@
 }
 
 [class~=create-guild-container] [class~=create-guild] [class~=guild-form] [class~=region-select]:hover button {
-    border-right-color: #25ace8;
+    border-right-color: #3B4489;
 }
 
 [class~=container-iksrDt] [class~=status] {
@@ -1366,7 +1366,7 @@
 }
 
 [class~=create-guild-container] [class~=create-guild] [class~=guild-form] [class~=region-select]:hover button {
-    border-top-color: #25ace8;
+    border-top-color: #3B4489;
 }
 
 [class~=guilds-wrapper] [class~=guilds] [class~=guild][class~=active],
@@ -1488,7 +1488,7 @@
 }
 
 .chat .has-more button {
-    color: #25ace8 !important;
+    color: #3B4489 !important;
 }
 
 [class~=container-iksrDt] {
@@ -2367,7 +2367,7 @@
 }
 
 .react-datepicker .react-datepicker__day.react-datepicker__day--today:after {
-    background-color: #25ace8 !important;
+    background-color: #3B4489 !important;
 }
 
 [class~=chat] [class~=new-messages-bar] button:last-child {
@@ -2387,7 +2387,7 @@
 }
 
 .checkbox .checkbox-inner input[type=checkbox]:checked+span {
-    border-right-color: #25ace8;
+    border-right-color: #3B4489;
 }
 
 #rtc-connection [class~=btn-group] {
@@ -2616,7 +2616,7 @@
 }
 
 [class~=popout] header {
-    background-color: #25ace8;
+    background-color: #3B4489;
 }
 
 [class~=search-results-wrap] [class~=search-result][class~=expanded] {
@@ -2701,7 +2701,7 @@
 }
 
 [class~=spinner-wandering-cubes] [class~=spinner-item] {
-    background-color: #25ace8;
+    background-color: #3B4489;
 }
 
 [class~=spinner-wandering-cubes] [class~=spinner-item] {
@@ -2734,7 +2734,7 @@
 }
 
 [class~=chat] [class~=title-wrap] [class~=topic] [class~=highlight]:hover {
-    color: #25ace8 !important;
+    color: #3B4489 !important;
 }
 
 .container-3lnMWU,
@@ -2834,7 +2834,7 @@
 }
 
 [class~=friends-table] [class~=messages] [class~=message-group] [class~=message-send-failed] [class~=markup] {
-    color: rgba(240, 71, 71, .5) !important;
+    color: rgba(59, 68, 137, 1) !important;
 }
 
 #voice-connection [class~=btn-group] {
@@ -2887,7 +2887,7 @@
 }
 
 [class~=messages] [class~=message-group] [class~=message-send-failed] [class~=markup] a {
-    color: rgba(240, 71, 71, .5) !important;
+    color: rgba(59, 68, 137, 1) !important;
 }
 
 [class~=search-popout] [class~=date-picker] [class~=date-picker-hint],
@@ -2897,7 +2897,7 @@
 
 [class~=react-datepicker] [class~=react-datepicker__day][class~=react-datepicker__day--selected]:hover,
 [class~=react-datepicker] [class~=react-datepicker__day]:hover {
-    background-color: #25ace8 !important;
+    background-color: #3B4489 !important;
 }
 
 [class~=channel-pins] [class~=message-group] [class~=action-buttons] [class~=jump-button] {
@@ -2913,7 +2913,7 @@
 }
 
 [class~=emoji-picker] [class~=categories] [class~=item][class~=selected] {
-    border-bottom-color: #25ace8;
+    border-bottom-color: #3B4489;
 }
 
 #user-profile-modal [class~=guilds] [class~=guild]:hover {
@@ -3058,7 +3058,7 @@
 }
 
 [class~=channel-pins] [class~=message-group]:hover {
-    border-left-color: rgba(37, 172, 232, .47) !important;
+    border-left-color: rgba(59, 68, 137, 1) !important;
 }
 
 [class~=chat] [class~=divider]>span {
@@ -3066,7 +3066,7 @@
 }
 
 [class~=channel-pins] [class~=message-group]:hover {
-    border-bottom-color: rgba(37, 172, 232, .47) !important;
+    border-bottom-color: rgba(59, 68, 137, 1) !important;
 }
 
 #settings-roles [class~=roles] li:hover:not([class~=selected]) {
@@ -3095,11 +3095,11 @@
 }
 
 [class~=channel-pins] [class~=message-group]:hover {
-    border-right-color: rgba(37, 172, 232, .47) !important;
+    border-right-color: rgba(59, 68, 137, 1) !important;
 }
 
 [class~=channel-pins] [class~=message-group]:hover {
-    border-top-color: rgba(37, 172, 232, .47) !important;
+    border-top-color: rgba(59, 68, 137, 1) !important;
 }
 
 [class~=channel-pins] [class~=message-group] [class~=action-buttons] {
@@ -3200,7 +3200,7 @@
 }
 
 [class~=popout] header {
-    border-left-color: #25ace8;
+    border-left-color: #3B4489;
 }
 
 [class~=chat] [class~=empty-message] {
@@ -3208,7 +3208,7 @@
 }
 
 [class~=mentioned] [class~=message-text]:after {
-    border-left-color: #25ace8 !important;
+    border-left-color: #3B4489 !important;
 }
 
 [class~=chat]>[class~=title-wrap]>[class~=topic] {
@@ -3232,7 +3232,7 @@
 }
 
 [class~=popout] header {
-    border-bottom-color: #25ace8;
+    border-bottom-color: #3B4489;
 }
 
 #bda-qem button {
@@ -3244,7 +3244,7 @@
 }
 
 [class~=popout] header {
-    border-right-color: #25ace8;
+    border-right-color: #3B4489;
 }
 
 [class~=chat]>[class~=title-wrap]>[class~=topic] {
@@ -3257,8 +3257,7 @@
 
 .checkbox .checkbox-inner input[type=checkbox]:checked+span,
 [class~=popout] header {
-    border-top-color: #25ace8;
-}
+    border-top-color: #3B4489
 
 #bda-qem-twitch-container {
     border-left-width: 0pc !important;
@@ -3273,7 +3272,7 @@
 }
 
 [class~=markdown-modal] [class~=highlight]:hover {
-    color: #25ace8 !important;
+    color: #3B4489 !important;
 }
 
 [class~=messages] [class~=message-group]:not([class~=has-divider]) {
@@ -3342,7 +3341,7 @@
 }
 
 [class~=mentioned] [class~=message-text]:after {
-    border-bottom-color: #25ace8 !important;
+    border-bottom-color: #3B4489 !important;
 }
 
 [class~=chat] [class~=empty-message] {
@@ -3379,11 +3378,11 @@
 }
 
 [class~=mentioned] [class~=message-text]:after {
-    border-right-color: #25ace8 !important;
+    border-right-color: #3B4489 !important;
 }
 
 [class~=mentioned] [class~=message-text]:after {
-    border-top-color: #25ace8 !important;
+    border-top-color: #3B4489 !important;
 }
 
 #bda-qem-twitch-container {
@@ -3407,7 +3406,7 @@
 }
 
 [class~=highlight] {
-    color: #25ace8;
+    color: #3B4489;
 }
 
 [class~=messages] h2 [class~=user-name] {
@@ -3678,7 +3677,7 @@
 }
 
 .avatar-uploader a {
-    color: #25ace8;
+    color: #3B4489;
 }
 
 [class~=add-friend-popout] [class~=btn],
@@ -3910,7 +3909,7 @@
 }
 
 [class~=messages] [class~=message-group] [class~=message-send-failed] [class~=markup] {
-    color: rgba(240, 71, 71, .5) !important;
+    color: rgba(59, 68, 137, 1) !important;
 }
 
 [class~=channel-textarea-autocomplete-inner] {
@@ -4127,7 +4126,7 @@
 }
 
 [class~=tab-bar][class~=SIDE] [class~=tab-bar-item][class~=selected]:before {
-    border-left-color: #25ace8;
+    border-left-color: #3B4489;
 }
 
 [class~=form] [class~=control-group] input[type=email] {
@@ -4171,7 +4170,7 @@
 }
 
 .friends-table .messages .message-group .message-send-failed .markup a {
-    color: rgba(240, 71, 71, .5) !important;
+    color: rgba(59, 68, 137, 1) !important;
 }
 
 .friends-table {
@@ -4183,7 +4182,7 @@
 }
 
 [class~=tab-bar][class~=SIDE] [class~=tab-bar-item][class~=selected]:before {
-    border-bottom-color: #25ace8;
+    border-bottom-color: #3B4489;
 }
 
 #user-profile-modal [class~=btn]:hover {
@@ -4291,7 +4290,7 @@
 }
 
 [class~=user-popout] [class~=user-popout-options] [class~=btn]:hover {
-    background-color: #25ace8;
+    background-color: #3B4489;
 }
 
 #bda-qem {
@@ -4303,7 +4302,7 @@
 }
 
 [class~=tab-bar][class~=SIDE] [class~=tab-bar-item][class~=selected]:before {
-    border-right-color: #25ace8;
+    border-right-color: #3B4489;
 }
 
 [class~=form] [class~=control-group] input[type=email] {
@@ -4611,7 +4610,7 @@
 }
 
 [class~=user-settings-modal] a:hover {
-    color: #25ace8;
+    color: #3B4489;
 }
 
 #user-profile-modal [class~=tab-bar] {
@@ -4668,7 +4667,7 @@
 }
 
 [class~=tab-bar][class~=SIDE] [class~=tab-bar-item][class~=selected]:before {
-    border-top-color: #25ace8;
+    border-top-color: #3B4489;
 }
 
 .user-popout .avatar-wrapper .avatar-popout {
@@ -4700,7 +4699,7 @@
 }
 
 [class~=slider-bar-fill] {
-    background-color: #25ace8;
+    background-color: #3B4489;
 }
 
 [class~=form] hr {
@@ -4788,7 +4787,7 @@
 }
 
 [class~=user-popout] [class~=user-popout-options] [class~=btn]:hover {
-    border-left-color: #25ace8;
+    border-left-color: #3B4489;
 }
 
 [class~=form] [class~=control-group] textarea {
@@ -4805,7 +4804,7 @@
 
 [class~=slider-bar-fill],
 [class~=user-popout] [class~=user-popout-options] [class~=btn]:hover {
-    border-bottom-color: #25ace8;
+    border-bottom-color: #3B4489;
 }
 
 [class~=form] [class~=Select-option] {
@@ -4823,7 +4822,7 @@
 }
 
 #autocomplete-popout [class~=empty] h4 {
-    color: #25ace8;
+    color: #3B4489;
 }
 
 [class~=user-popout] [class~=user-popout-options] [class~=btn][class~=btn-server]:hover {
@@ -4869,7 +4868,7 @@
 
 [class~=slider-bar-fill],
 [class~=user-popout] [class~=user-popout-options] [class~=btn]:hover {
-    border-right-color: #25ace8;
+    border-right-color: #3B4489;
 }
 
 [class~=slider-bar-fill],
@@ -4930,7 +4929,7 @@
 
 [class~=user-popout] [class~=user-popout-options] [class~=btn]:hover,
 [class~=slider-bar-fill] {
-    border-top-color: #25ace8;
+    border-top-color: #3B4489;
 }
 
 [class~=form] [class~=control-group] input[type=email],
@@ -4939,7 +4938,7 @@
 }
 
 [class~=slider-bar-fill] {
-    border-left-color: #25ace8;
+    border-left-color: #3B4489;
 }
 
 .bd-g-table textarea {
@@ -5205,7 +5204,7 @@
 }
 
 #permissions [class~=permissions-helpdesk] {
-    color: #25ace8;
+    color: #3B4489;
 }
 
 [class~=form] [class~=control-group] input[type=password] {
@@ -5408,7 +5407,7 @@
 
 [class~=cm-s-neat] span[class~=cm-atom],
 .cm-s-neat span.cm-builtin {
-    color: #25ace8;
+    color: #3B4489;
 }
 
 [class~=form] [class~=control-group] input[type=password] {
@@ -5416,11 +5415,11 @@
 }
 
 #pubs-header {
-    background-color: #25ace8 !important;
+    background-color: #3B4489 !important;
 }
 
 [class~=form] [class~=btn-primary]:hover {
-    background-color: #25ace8;
+    background-color: #3B4489;
 }
 
 [class~=form] [class~=control-group] input[type=password] {
@@ -5650,7 +5649,7 @@
 
 [class~=guild-settings-modal-members] [class~=guild-settings-modal-members-footer] a,
 [class~=cm-s-neat] span[class~=cm-number] {
-    color: #25ace8;
+    color: #3B4489;
 }
 
 [class~=bda-slist] li {
@@ -6441,7 +6440,7 @@
 }
 
 [class~=server-info] button:hover {
-    background-color: #25ace8 !important;
+    background-color: #3B4489 !important;
 }
 
 #bda-qem-favourite-container [class~=scroller]::-webkit-scrollbar-thumb {
@@ -6646,7 +6645,7 @@
 }
 
 [class~=user-settings-modal-connections] [class~=user-settings-modal-connections-list] [class~=connection] [class~=connection-integrations] {
-    border-left-color: #643da7 !important;
+    border-left-color: #3B4489 !important;
 }
 
 [class~=CodeMirror-gutters] {
@@ -6674,7 +6673,7 @@
 }
 
 [class~=user-settings-modal-connections] [class~=user-settings-modal-connections-list] [class~=connection] [class~=connection-integrations] {
-    border-bottom-color: #643da7 !important;
+    border-bottom-color: #3B4489 !important;
 }
 
 [class~=popout-menu] [class~=popout-menu-separator] {
@@ -6734,7 +6733,7 @@
 }
 
 [class~=user-settings-modal-connections] [class~=user-settings-modal-connections-list] [class~=connection] [class~=connection-integrations] {
-    border-right-color: #643da7 !important;
+    border-right-color: #3B4489 !important;
 }
 
 [class~=form] [class~=control-group] input[type=text] {
@@ -6807,7 +6806,7 @@
 }
 
 [class~=user-settings-modal-connections] [class~=user-settings-modal-connections-list] [class~=connection] [class~=connection-integrations] {
-    border-top-color: #643da7 !important;
+    border-top-color: #3B4489 !important;
 }
 
 [class~=deprecated-settings-modal] [class~=settings-inner] {
@@ -6815,7 +6814,7 @@
 }
 
 .tab-bar.TOP .tab-bar-item.selected {
-    border-left-color: #25ace8;
+    border-left-color: #3B4489;
 }
 
 [class~=bda-slist] {
@@ -6831,7 +6830,7 @@
 }
 
 .tab-bar.TOP .tab-bar-item.selected {
-    border-bottom-color: #25ace8;
+    border-bottom-color: #3B4489;
 }
 
 [class~=deprecated-settings-modal] [class~=settings-actions] {
@@ -6839,7 +6838,7 @@
 }
 
 .tab-bar.TOP .tab-bar-item.selected {
-    border-right-color: #25ace8;
+    border-right-color: #3B4489;
 }
 
 [class~=emoji-picker] {
@@ -6855,7 +6854,7 @@
 }
 
 .tab-bar.TOP .tab-bar-item.selected {
-    border-top-color: #25ace8;
+    border-top-color: #3B4489;
 }
 
 [class~=emoji-picker] {
@@ -6884,7 +6883,7 @@
 }
 
 .tab-bar.TOP .tab-bar-item.selected {
-    color: #25ace8;
+    color: #3B4489;
 }
 
 [class~=deprecated-settings-modal] [class~=settings-actions] {
@@ -7107,7 +7106,7 @@
 }
 
 #instant-invite-modal [class~=clipboard-input-inner] input {
-    color: #25ace8;
+    color: #3B4489;
 }
 
 [class~=server-icon] {
@@ -7237,7 +7236,7 @@ textarea {
 }
 
 #instant-invite-modal .copy {
-    background-color: #25ace8;
+    background-color: #3B4489;
 }
 
 [class~=bd-minimal] [class~=guild-channels] [class~=channel-text][class~=unread]:not([class~=selected]):not([class~=channel-muted]):before {
@@ -7313,24 +7312,24 @@ textarea {
 }
 
 [class~=markup] pre {
-    border-top-color: rgba(67, 181, 129, .5) !important;
+    border-top-color: rgba(59, 68, 137, 1) !important;
 }
 
 [class~=markup] pre {
-    border-right-color: rgba(67, 181, 129, 0.5) !important;
+    border-right-color: rgba(59, 68, 137, 1) !important;
 }
 
 [class~=markup] pre {
-    border-bottom-color: rgba(67, 181, 129, 0.5) !important;
+    border-bottom-color: rgba(59, 68, 137, 1) !important;
 }
 
 [class~=markup] pre {
-    border-left-color: rgba(67, 181, 129, 0.5) !important;
+    border-left-color: rgba(59, 68, 137, 1) !important;
 }
 
 .theme-dark .private-channel-call.minimum .private-channel-call-actions .center {
     background-color: rgba(24, 25, 28, 0);
-    border-color: rgba(67, 181, 129, 0.5);
+    border-color: rgba(59, 68, 137, 1);
 }
 
 .container-2OU7Cz {
