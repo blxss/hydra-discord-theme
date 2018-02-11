@@ -1,0 +1,89 @@
+//META{"name":"Hydra","description":"A nice theme for Hydra users.","author":"bliss","version":"1.2 beta"}*//{}
+@import url(https://gitcdn.xyz/repo/WhatDaPuck/NotAnotherAnimeTheme/master/css/NotAnotherAnimeThemeSCSL.css);
+
+[class~=app] {
+    background: url(https://yawn.pw/u/05.57.28-11.02.18.jpg) !important;
+    background-size: cover !important;
+}
+
+.guilds-wrapper .guilds .guild.unread:not(.selected):before,
+.guild-channels .channel-text.unread:not(.selected):not(.channel-muted):before {
+    background: #3b4489;    /*change this to any hex code you want*/
+}
+
+[class~=nameSelectedVoice-XpjYTw], .nameHoveredText-2FFqiz, [class~=nameHoveredVoice-TIoHRJ], [class~=nameSelectedText-32NDX5] {
+    color: #3b4489;
+}
+
+[class~=unread-23Kvxk] {
+    background-color: #3b4489;
+}
+
+[class~=chat] [class~=new-messages-bar] {
+    background-color: rgba(59, 68, 137, .5);
+}
+
+[class~=chat] [class~=new-messages-bar]:hover {
+    background-color: rgba(59, 68, 137, 1);
+}
+
+[class~=scroller-wrap] [class~=scroller]::-webkit-scrollbar-thumb {
+    background-color: rgba(59, 68, 137, .5) !important;
+}
+
+.iconCollapsed-1INdMX, .iconDefault-xzclSQ, .nameCollapsed-3_ChMu, .nameDefault-Lnjrwm {
+    color: #3b4489;
+}
+
+.iconHovered-3PRzOR, iconHoveredCollapsed-jNYgOD, .nameHovered-1YFSWq, .nameHoveredCollapsed-2c-EHI{
+    color: #3b4489;
+}
+
+.appMount-14L89u {
+    background-color: #000000;
+}
+
+[class~=nameSpeaking-3ROx9q],
+[class~=nameHovered-28u_Fz] {
+    color: #3b4489;
+}
+
+.theme-dark .embedInner-t4ag7g {
+    background-color: rgba(0, 0, 0, 0.8);
+    border-color: rgba(67, 181, 129, 0.2);
+}
+.theme-dark .embedPill-3sYS1X {
+    background-color: rgba(67, 181, 129, 0.4);
+}
+
+[class~=guilds-wrapper] {
+    background: rgba(0, 0, 0, .8) !important;
+}
+
+.channels-3g2vYe {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.theme-dark .title-qAcLxz {
+    background: rgba(0, 0, 0, 0.8);
+}
+
+[class~=content] [class~=flex-spacer] {
+    background: rgba(0, 0, 0, 0.8);
+}
+
+[class~=channel-members], [class~=private-channels] [class~=search-bar] input {
+    background: rgba(0, 0, 0, .8) !important;
+}
+
+.theme-dark .lfg-3xoFkI {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.friends-table {
+    background: rgba(0, 0, 0, 0.8) !important;
+}
+
+.theme-dark .headerBar-cxbhPD {
+    background: rgba(0, 0, 0, 0.8);
+}
