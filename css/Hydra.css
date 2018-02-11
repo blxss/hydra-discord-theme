@@ -4550,7 +4550,7 @@
 }
 
 [class~=user-popout] [class~=user-popout-options] [class~=btn][class~=btn-server]:hover {
-    background: rgba(240, 71, 71, 1);
+    background: rgba(59, 68, 137, 1);
 }
 
 #pubs-container,
@@ -5052,7 +5052,7 @@
 }
 
 [class~=user-popout] [class~=user-popout-options] [class~=btn][class~=btn-server] {
-    background: rgba(240, 71, 71, .4);
+    background: rgba(59, 68, 137, 1);
 }
 
 .form .Select-option {
