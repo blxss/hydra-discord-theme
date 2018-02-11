@@ -1,4 +1,4 @@
-//META{"name":"Hydra","description":"A nice theme for Hydra users.","author":"bliss","version":"1.2 beta"}*//{}
+//META{"name":"Hydra","description":"A nice theme for Hydra users.","author":"bliss","version":"1.25 beta"}*//{}
 
 [class~=divider-red] span,
 [class~=guild-header] header,
@@ -629,14 +629,14 @@
 }
 
 .ui-scroller-themed.ui-scroller-ghost-hairline .scroller::-webkit-scrollbar-thumb {
-    background-color: rgba(67, 181, 129, 0.3);
+    background-color: rgba(59, 68, 137, 1);
     border: 2px solid transparent;
     border-radius: 4px;
     cursor: move;
 }
 
 .ui-scroller-themed.ui-scroller-ghost .scroller::-webkit-scrollbar-thumb {
-    background-color: rgba(67, 181, 129, 0.10);
+    background-color: rgba(59, 68, 137, 1);
     border-color: transparent;
 }
 
@@ -677,8 +677,8 @@
 
 .theme-dark .friends-table .messages .message-group-blocked.revealed,
 .theme-dark .messages-wrapper .messages .message-group-blocked.revealed {
-    border-color: rgba(240, 71, 71, 0.4);
-    background: rgba(240, 71, 71, 0.1);
+    border-color: rgba(59, 68, 137, 1);
+    background: rgba(59, 68, 137, 1);
 }
 
 [class~=popout-menu] [class~=popout-menu-separator] {
@@ -1801,7 +1801,7 @@
 }
 
 .channel-textarea-autocomplete-inner header {
-    background: rgba(37, 172, 232, .5) !important;
+    background: rgba(59, 68, 137, 1) !important;
 }
 
 [class~=container-iksrDt] {
@@ -2555,11 +2555,11 @@
 }
 
 .guild-channels .channel-text.unread:not(.selected):not(.channel-muted):before {
-    background: rgba(67, 181, 129, .8);
+    background: rgba(59, 68, 137, 1);
 }
 
 [class~=chat] [class~=divider][class~=divider-red]:before {
-    background: rgba(240, 71, 71, .2) !important;
+    background: rgba(59, 68, 137, 1) !important;
 }
 
 .container-3lnMWU {
@@ -2870,7 +2870,7 @@
 }
 
 .theme-dark .search-results-wrap .scroller-wrap .scroller::-webkit-scrollbar-thumb {
-    background-color: rgba(67, 181, 129, .7) !important;
+    background-color: rgba(59, 68, 137, 1) !important;
 }
 
 [class~=markup] pre code[class~=hljs] {
@@ -3395,7 +3395,7 @@
 }
 
 [class~=mentioned] [class~=message-text]:after {
-    background: rgba(37, 172, 232, .2) !important;
+    background: rgba(59, 68, 137, 1) !important;
 }
 
 [class~=react-datepicker] {
@@ -3585,7 +3585,7 @@
 }
 
 [class~=mentioned] [class~=message-text] {
-    background: rgba(37, 172, 232, .2) !important;
+    background: rgba(59, 68, 137, 1) !important;
 }
 
 #twitchcord-button.twitchcord-button-open,
@@ -3946,7 +3946,7 @@
 }
 
 .channel-members .member:hover {
-    background: linear-gradient(90deg,rgba(67,181,129,0.2) 85%,rgba(0, 0, 0, 0));
+    background: linear-gradient(90deg,rgba(59, 68, 137, 1) 85%,rgba(0, 0, 0, 0));
 }
 
 [class~=markup] code[class~=inline] {
