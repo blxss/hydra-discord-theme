@@ -1,5 +1,5 @@
 //META{"name":"Hydra","description":"A nice theme for Hydra users.","author":"bliss","version":"1.2 beta"}*//{}
-@import url(https://gitcdn.xyz/repo/WhatDaPuck/NotAnotherAnimeTheme/master/css/NotAnotherAnimeThemeSCSL.css);
+@import url(https://gitcdn.xyz/repo/blxss/hydra-discord-theme/master/css/Hydra.css);
 
 [class~=app] {
     background: url(https://yawn.pw/u/05.57.28-11.02.18.jpg) !important;
@@ -40,7 +40,7 @@
 }
 
 .appMount-14L89u {
-    background-color: #000000;
+    background-color: #3B4489;
 }
 
 [class~=nameSpeaking-3ROx9q],
@@ -50,10 +50,10 @@
 
 .theme-dark .embedInner-t4ag7g {
     background-color: rgba(0, 0, 0, 0.8);
-    border-color: rgba(67, 181, 129, 0.2);
+    border-color: rgba(59, 68, 137, 1);
 }
 .theme-dark .embedPill-3sYS1X {
-    background-color: rgba(67, 181, 129, 0.4);
+    background-color: rgba(59, 68, 137, 1);
 }
 
 [class~=guilds-wrapper] {
