@@ -7419,3 +7419,35 @@ textarea {
 .theme-dark .typing-3eiiL_ {
     background-color: rgba(0, 0, 0, 0);
 }
+
++}
++
++
++
++
++dark .channel-members .member:hover {
++    background: linear-gradient(90deg,rgba(59, 68, 137, 1) 85%,rgba(0, 0, 0, 0));
++}
++
++
++
++
++.body-3rkFrF {
++    background-color: rgba(0,0,0,0.9);
++    padding: 20px;
++    border-bottom: 1px solid #3b4489;
++}
++
++
++
++
++.statusGreen-1ADNRt {
++    color: #3b4489;
++}
++
++
++
++
++.wrapper-2ldvyE {
++    color: #3b4489;
+ } 
